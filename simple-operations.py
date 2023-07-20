@@ -6,5 +6,5 @@ devide=a/b
 multiply=a*b
 print("sum of a and b is",sum)
 print("sub of a and b is",sub)
-print("devide of a and b is",devide)
-print("multiply of a and b is",multiply)
+print("devision of a and b is",devide)
+print("multiplycation of a and b is",multiply)
