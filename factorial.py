@@ -28,4 +28,4 @@ num = 5
 print("Factorial of",num,"is",
 factorial(num))
 
-# This code is contributed by Dharmik Thakkar
+
