@@ -1,25 +1,34 @@
 # Python Programming
-- Title
-- Introduction
+
+## Table of Contents
+
+- [Title](#title)
+- [Introduction](#introduction)
+- [Authors](#authors)
+- [Acknowledgements](#acknowledgement)
 
 ## Title
 
+**Python Programming**
+
 ## Introduction
 
-- variables.py
-- datatype.py
-	- string.py
-	- list.py
-	- tuple.py
-	- dictionary.py
-- operator.py
-- ifelse.py
-- loop.py
+Explore the fundamentals of Python programming through the following files:
+
+- `variables.py`
+- `datatype.py`
+  - `string.py`
+  - `list.py`
+  - `tuple.py`
+  - `dictionary.py`
+- `operator.py`
+- `ifelse.py`
+- `loop.py`
 
 ## Authors
 
 Yuvraj Singh
 
-## Acknowledgement
+## Acknowledgements
 
 Gaurav Kumar Singh
